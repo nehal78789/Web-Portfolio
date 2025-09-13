@@ -42,7 +42,7 @@ section{
     font-weight: 550;
 }
 .dream-area{
-    background-image: url(images/dream-bg.png);
+    background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -53,7 +53,7 @@ section{
     background-color: white;
 }
 .experience-area{
-    background-image: url(images/exp-bg.png);
+    background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
 }
